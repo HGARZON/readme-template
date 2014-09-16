@@ -16,19 +16,20 @@ Name and email.
 - Designer 2 (programmer2@work.com)
 - etc.
 
-## Description of all the project
+## Description
 
-What is this proyect about?
-
-## Configuration
-
-Instructions to install, configure, and to run the programs.
-
-Grails version: X.X.X
+What is this proyect about? Short. Straight to the point.
 
 ## Dependencies
 
 What you need to run or use it?
 
+Is it build in grails?
+
+Grails version: X.X.X
+
 Are you using sass? Less? Grunt? Any library should go here.
 
+## Configuration
+
+Instructions to install, configure and to run the programs.
