@@ -20,10 +20,12 @@ Are you using sass? Less? Grunt? Any library should go here.
 
 Instructions to install, configure and to run the programs.
 
-Edit host to run local:
+Edit host to run local. E.g.:
 
-    ```127.0.0.1   checkout-lite.mercadopadesa.com
-    127.0.0.1   login-dev.mercadopadesa.com```
+```
+127.0.0.1   project-mercadolidesa.com
+127.0.0.1   project-mercadolidesa.com
+```
 
 ## Contributors
 
