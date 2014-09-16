@@ -2,7 +2,7 @@
 
 ## Overview
 
-What is this proyect about? Short. Straight to the point.
+What is this project about? Short. Straight to the point.
 
 ## Development
 
@@ -14,11 +14,14 @@ Is it build in grails?
 
 Grails version: X.X.X
 
-Are you using sass? Less? Grunt? Any library should go here.
+Are you using sass? Less? Grunt? 
+Any library should go here.
 
 ### Configuration
 
 Instructions to install, configure and to run the programs.
+
+#### HOSTS file:
 
 Edit host to run local. E.g.:
 
