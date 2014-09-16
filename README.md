@@ -11,7 +11,10 @@ The whole idea behing this proyect is simple: have a good readme file.
 
 Name and email.
 
-- John Travolta (travolta@work.com)
+- Programmer 1 (programmer1@work.com)
+- Programmer 2 (programmer2@work.com)
+- Designer 2 (programmer2@work.com)
+- etc.
 
 ## Description of all the project
 
@@ -24,6 +27,8 @@ Instructions to install, configure, and to run the programs.
 Grails version: X.X.X
 
 ## Dependencies
+
+What you need to run or use it?
 
 Are you using sass? Less? Grunt? Any library should go here.
 
