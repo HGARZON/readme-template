@@ -17,7 +17,7 @@ Grails version: X.X.X
 Are you using sass? Less? Grunt? 
 Any library should go here.
 
-### Configuration
+### How to setup the deployment environment
 
 Instructions to install, configure and to run the programs.
 
