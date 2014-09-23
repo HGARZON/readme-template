@@ -21,12 +21,24 @@ Any library should go here.
 
 Instructions to install, configure and to run the programs.
 
+grails run-app ?
+
+grails run-app -https ?
+
+### URL to run the project
+
+E.g.:
+
+```
+localhost:8080/mlb/instores/additionalData
+```
+
 #### HOSTS file:
 
 Edit host to run local. E.g.:
 
 ```
-127.0.0.1   project-mercadolidesa.com
+127.0.0.1   localhost
 127.0.0.1   project-mercadolidesa.com
 ```
 
