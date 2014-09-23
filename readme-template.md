@@ -27,10 +27,22 @@ grails run-app -https ?
 
 ### URL to run the project
 
-E.g.:
+Local url e.g.:
 
 ```
 localhost:8080/mlb/instores/additionalData
+```
+
+Beta url e.g.:
+
+```
+https://www.mercadopago.com/mco/payments/beta/mlb/instores/additionalData
+```
+
+Production url e.g.:
+
+```
+https://www.mercadopago.com/mco/payments/mlb/instores/additionalData
 ```
 
 #### HOSTS file:
